@@ -87,8 +87,10 @@ class mainApplication():
         if mods_ != "":
             mods_ = mods_.split(", ")
 
+            tbl_disp_buffer = []
             for tbl in tbls:
-                if tbl[0] in mods_:
+                if tbl[0] in mods_ and tbl[1] not in tbl_disp_buffer:
+                    tbl_disp_buffer.append(tbl[1])
                     print(bcolors.BOLD+tbl[1]+bcolors.ENDC)
 
             tbls_ = input("Enter TBLs, deliminated by commas (no input means everything): ")
@@ -107,6 +109,8 @@ class mainApplication():
         print(bcolors.OKGREEN+"Revision Starting"+bcolors.ENDC)
 
         selected_indices = []
+        repeat_cards = []
+        card_counter = 0
         while True:
             selected_index = 0
 
@@ -118,16 +122,38 @@ class mainApplication():
                 else:
                     break
 
-            while selected_index in selected_indices:
-                selected_index = random.randint(0,len(self.cards_df.index)-1)
+            # print(card_counter,repeat_cards[-1][1])
+            if len(repeat_cards)>0 and card_counter == repeat_cards[-1][1]:
+                selected_index = repeat_cards[-1][0]
+                print(bcolors.WARNING+"Repeated card"+bcolors.ENDC)
+                repeat_cards.pop()
+            else:
+                while selected_index in selected_indices:
+                    selected_index = random.randint(0,len(self.cards_df.index)-1)
+
+            print(selected_index, self.displayCard(selected_index))
+
 
             selected_indices.append(selected_index)
             print("-----------------------------------------------")
             print(bcolors.BOLD+self.displayCard(selected_index)+bcolors.ENDC)
-            input("")
+
+            console_in = input("")
+            if len(console_in) > 0 and console_in[0] == ":" and console_in.split(" ")[0] == ":rep" and len(console_in.split(" ")) > 1:
+                # print([selected_index, int(console_in.split(" ")[1])+card_counter])
+                repeat_cards.append([selected_index, int(console_in.split(" ")[1])+card_counter])
+                repeat_cards.sort(key=(lambda item: item[1]), reverse=True)
+
             print(bcolors.OKCYAN+self.displayCard(selected_index, side="side_b")+bcolors.ENDC)
-            input("")
+            
+            console_in = input("")
+            if len(console_in) > 0 and console_in[0] == ":" and console_in.split(" ")[0] == ":rep" and len(console_in.split(" ")) > 1:
+                # print([selected_index, int(console_in.split(" ")[1])+card_counter])
+                repeat_cards.append([selected_index, int(console_in.split(" ")[1])+card_counter])
+                repeat_cards.sort(key=(lambda item: item[1]), reverse=True)
+
             print("-----------------------------------------------")
+            card_counter += 1
 
 m = mainApplication('flashcards')
 m.gameMaster()
