@@ -130,11 +130,12 @@ class mainApplication():
             else:
                 while selected_index in selected_indices:
                     selected_index = random.randint(0,len(self.cards_df.index)-1)
+                selected_indices.append(selected_index)
 
-            print(selected_index, self.displayCard(selected_index))
+            # print(selected_index, self.displayCard(selected_index))
 
 
-            selected_indices.append(selected_index)
+            # selected_indices.append(selected_index)
             print("-----------------------------------------------")
             print(bcolors.BOLD+self.displayCard(selected_index)+bcolors.ENDC)
 

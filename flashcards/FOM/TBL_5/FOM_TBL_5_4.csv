@@ -1,0 +1,17 @@
+side_a,side_b,tags
+Linear motors require ______,Protein rails,ECM;Filaments;Cell Biology;Molecular Motors
+"Myosin, a linear motor, depends on what as a rail?",Actin filaments,ECM;Filaments;Cell Biology;Molecular Motors
+"Dyenin, a linear motor, depends on what as a rail?",Microtubules,ECM;Filaments;Cell Biology;Molecular Motors
+"Kinesin, a linear motor, depends on what as a rail?",Microtubules,ECM;Filaments;Cell Biology;Molecular Motors
+Helicase,DNA/RNA,ECM;Filaments;Cell Biology;Molecular Motors
+Topoisomerase,DNA/RNA,ECM;Filaments;Cell Biology;Molecular Motors
+Listeria bacteria exploits what effect to move around cells?,Actin polymerisation,ECM;Filaments;Cell Biology;Molecular Motors;Bacteria;Immunology
+"Rotary motors, like ATP Synthase, require a stationary part that does not move. What is this called?",Stator,ECM;Filaments;Cell Biology;Molecular Motors;Krebs Cycle
+The stator in rotary motors has:,"Electrostatic interactions with the rotor, and binding sites",ECM;Filaments;Cell Biology;Molecular Motors;Krebs Cycle
+ATP Synthase is what type of molecular motor?,Rotary motor,ECM;Filaments;Cell Biology;Molecular Motors;Krebs Cycle
+Rotary motors like ATP Synthase are reversible?,"Yes, ATP is hydrolysed in this case",ECM;Filaments;Cell Biology;Molecular Motors;Krebs Cycle
+Kinesins and dyenines are _____ motors,Cytoskeletal,ECM;Filaments;Cell Biology;Molecular Motors
+Myosins are _______ motors,Cytoskeletal,ECM;Filaments;Cell Biology;Molecular Motors
+Myosin and kinesin have motor domains and what?,Light chains,ECM;Filaments;Cell Biology;Molecular Motors
+Kinesin moves to what end of the microtubule (+ or -)?,"the + end, anterogade movement",ECM;Filaments;Cell Biology;Molecular Motors
+Dyenin moves to what end of the microtubule (+ or -)?,"the - end, retrogade movement",ECM;Filaments;Cell Biology;Molecular Motors

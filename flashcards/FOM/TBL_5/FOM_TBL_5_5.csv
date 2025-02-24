@@ -1,0 +1,57 @@
+﻿side_a,side_b,tags
+Mode of transport between nucleus and cytosol?,Gated transport,Cell Biology;Trafficking
+Mode of transport between plastids and cytosol?,Protein translocation,Cell Biology;Trafficking
+Mode of transport between mitochondria and cytosol?,Protein translocation,Cell Biology;Trafficking
+Mode of transport between cytosol and ER?,Protein translocation,Cell Biology;Trafficking
+Mode of transport between cytosol and peroxisomes?,Protein translocation,Cell Biology;Trafficking
+Mode of transport between ER and peroxisomes?,Vesicular transport,Cell Biology;Trafficking
+Mode of transport between ER and golgi?,Vesicular transport,Cell Biology;Trafficking
+Mode of transport between secretory vesicles and golgi?,Vesicular transport,Cell Biology;Trafficking
+Where are Ran-GTP and Ran-GDP respectively?,Ran-GTP is in the nucleus\nRan-GDP is in the cytoplasm,Cell Biology;Trafficking
+The hydrolysis of GTP in Ran-GTP bound to the nuclear receptor results in what?,"Ran-GDP is formed and released from the nuclear receptor\nThe prospective nuclear protein takes its' place in the receptor, and is then transported through the nuclear pore into the nucleus.",Cell Biology;Trafficking
+How are nuclear proteins released from the nuclear import receptor?,Ran-GTP is formed and displaces the protein from the nuclear import receptor,Cell Biology;Trafficking
+Do nuclear export receptors utilise RAN?,Yes,Cell Biology;Trafficking
+The binding of the signal recognition particle (SRP) to a growing peptide causes:,A pause in translation,Cell Biology;Trafficking
+"After a signal recognition particle binds to a growing peptide, translation only resumes when:",The SRP is detected by a SRP receptor on the ER membrane,Cell Biology;Trafficking
+"After the Signal recognition particle is detected by the SRP receptor on the ER membrane, what is formed?","A protein translocator channel forms, allowing the protein to enter the ER",Cell Biology;Trafficking
+What cleaves the signal sequence (5') from a growing peptide in the ER?,Signal peptidase,Cell Biology;Trafficking
+What constitutes vesicular transport?,Transport of vesicles through budding and fusion to the cell membrane,Cell Biology;Trafficking
+Clathrin + adaptin 1 coat origin and destination,Origin: Golgi\nDestination: lysosome,Cell Biology;Trafficking
+Clathrin + adaptin 2 coat origin and destination,Origin: Plasma membrane\nDestination: endosomes,Cell Biology;Trafficking
+COP II coat origin and destination,Origin: ER\nDestination: Golgi cisterna,Cell Biology;Trafficking
+COP I coat origin and destination,Origin: Golgi Cisterna\nDestination: ER,Cell Biology;Trafficking
+What are three roles of the ER?,Ca2+ storage\nLipid biogenesis\nProtein translation folding,Cell Biology;Trafficking
+What is the role of the RER?,Synthesis of integral proteins and secretory proteins,Cell Biology;Trafficking
+Most proteins at the ER are glycosylated by the addition of _______ marking the state of protein folding,N-linked oligosaccharides,Cell Biology;Trafficking
+"After protein glycosylation, which enzymes remove the first and second glucose on the protein?",Glucosidase I and II respecitvely,Cell Biology;Trafficking
+"After glucose trimming of proteins, what chaperone protein(s) present on the ER membrane aid in folding?",Calnexin/Calreticulin,Cell Biology;Trafficking
+"Which proteins reglycosylate misfolded proteins, to put them back into the folding cycle?",UGGT (a glucosyl transferase),Cell Biology;Trafficking
+Which protein degrades improperly folded proteins?,ERAD,Cell Biology;Trafficking
+"In ER protein folding, glucosidase II removes the third and final glucose after:",the protein is properly folded,Cell Biology;Trafficking
+The golgi apparatus has what functions?,Sorting station for vesicular transport\nProcessing of oligosaccharide\nGlycosylation adding to the stability and regulatory functions of proteins,Cell Biology;Trafficking
+How many cisternae are in the gogli apparatus,4 to 6,Cell Biology;Trafficking
+Can proteins entering the cis golgi can be returned to the ER,Yes,Cell Biology;Trafficking
+Each golgi compartment as the same role,Incorrect,Cell Biology;Trafficking
+What is the mode of inheritance of cystic fibrosis?,Autosomal recessive,Cell Biology;Trafficking;Diseases;Pathology;Genetics;Inherited Diseases
+What gene is responsible for cystic fibrosis?,Mutation in the CFTR gene,Cell Biology;Trafficking;Diseases;Pathology;Genetics;Inherited Diseases
+What is CFTR?,An ATP binding casette (ABC) transporter that is a chloride channel\nCurcial for salt and water transport across epithelial cells,Cell Biology;Trafficking;Diseases;Pathology;Genetics;Inherited Diseases
+What specific mutation occurs in most cystic fibrosis patients?,"Delta F508\nDeletion of 3 nucleotides resulting in the loss of phenylalanine in the 508th position of the protein\nPerturbs glycosylation, folding, etc.\nResults in degredation",Cell Biology;Trafficking;Diseases;Pathology;Genetics;Inherited Diseases
+What are some clinical manifestations of Cystic Fibrosis,Chronic lung infections\nBronchiectasis\nPancreatic insufficiency due to blockage of pancreatic ducts\nBowel obstruction in newborns\nMale infertility due to blockage of vas deferens\nHigh salt sweat,Cell Biology;Trafficking;Diseases;Pathology;Genetics;Inherited Diseases;Lungs
+What is the mode of inheritance of ROR2-related Robinow syndrome?,Autosomal recessive,Cell Biology;Trafficking;Diseases;Pathology;Genetics;Inherited Diseases
+What mutation is responsible for ROR2-related robinow syndrome?,Cell surface tyrosine kinase receptor 2 (ROR2) mutation resulting in ER retention and enhanced degredation of ROR2,Cell Biology;Trafficking;Diseases;Pathology;Genetics;Inherited Diseases
+What is ROR2 involved in?,Early formation of chondrocytes,Cell Biology;Trafficking;Diseases;Pathology;Genetics;Inherited Diseases
+What are some clinical manifestations of ROR2-related Robinow syndrome,Severe skeletal dysplasia\nDysmorphic facial appearance\nDefects of spine\nShortening of digits\nGenital hypoplasia,Cell Biology;Trafficking;Diseases;Pathology;Genetics;Inherited Diseases
+Fusion in Exocytosis is modulated by SNARE proteins. What SNARE proteins are found on vesicles and membranes respectively?,"V-SNARE (vesicles), T-SNARE (membranes)",Cell Biology;Trafficking
+How do SNARE proteins work?,"SNARE proteins bind each other helically, squeezing water out of the bilayer membrane between the vesicle and membrane",Cell Biology;Trafficking
+What are the modes  of endocytosis?,"Pinocytosis (macro, micro)\nMacropinocytosis\nReceptor mediated endocytosis",Cell Biology;Trafficking
+What is pinocytosis?,Engulfement of fluid,Cell Biology;Trafficking
+Is macropinocytosis clathrin dependent or independent?,"Clathrin independent, works with actin",Cell Biology;Trafficking
+Caveolae are an example of:,Clathrin independent endocytosis,Cell Biology;Trafficking
+Pinocytosis can be clathrin dependent,Yes,Cell Biology;Trafficking
+Receptor mediated endocytosis involves:,A receptor ligand binding,Cell Biology;Trafficking
+LDL uptake is mediated by:,Binding of apolipo protein B to surface receptor in clathrin pits,Cell Biology;Trafficking;Cholesterol
+The endosome containing LDL is initially coated by:,Clathrin,Cell Biology;Trafficking;Cholesterol
+LDL receptors are eventually returned to the:,Plasma membrane,Cell Biology;Trafficking;Cholesterol
+Familial hypercholestremia is inherited in what manner?,Autosomal dominant,Cell Biology;Trafficking;Cholesterol;Diseases;Genetics;Heritable Diseases
+Familial hypercholestremia is caused by a mutation in what?,LDLR (LDL receptor),Cell Biology;Trafficking;Cholesterol;Diseases;Genetics;Heritable Diseases
+Homozygous mutations of LDLR result in severe __________ in children due to high levels of LDL,Cardiovascular Disease,Cell Biology;Trafficking;Cholesterol;Diseases;Genetics;Heritable Diseases;Cardio
