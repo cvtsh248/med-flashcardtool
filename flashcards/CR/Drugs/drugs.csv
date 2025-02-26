@@ -1,0 +1,22 @@
+side_a,side_b,tags
+Nifedipine,Drug class: Dihydropyridine\nAction:Calcium channel blocker\nTarget: Vascular Tissue,Cardiovascular Drugs;Cardiovascular System;CCB
+Verapamil,Drug class: Phenylalkylamine\nAction:Calcium channel blocker\nTarget: Myocardium,Cardiovascular Drugs;Cardiovascular System;CCB
+Nimodipine,Drug class: Dihydropyridine\nAction:Calcium channel blocker\nTarget: Vascular smooth muscle,Cardiovascular Drugs;Cardiovascular System;CCB
+Amlodipine,"Drug class: Dihydropyridine\nAction: Calcium channel blocker\nTarget Tissue: Vascular smooth muscle\nClinical use: ""Hypertension and angina""",Cardiovascular Drugs;Cardiovascular System;CCB
+Nifedipine,"Drug class: Dihydropyridine\nAction: Calcium channel blocker\nTarget Tissue: Vascular smooth muscle\nClinical use: ""Hypertension and vasospastic angina""",Cardiovascular Drugs;Cardiovascular System;CCB
+Nimodipine,Drug class: Dihydropyridine\nAction: Calcium channel blocker\nTarget Tissue: Cerebral arteries\nClinical use: Subarachnoid hemorrhage,Cardiovascular Drugs;Cardiovascular System;CCB
+Nicardipine,"Drug class: Dihydropyridine\nAction: Calcium channel blocker\nTarget Tissue: Vascular smooth muscle\nClinical use: ""Hypertensive emergencies and angina""",Cardiovascular Drugs;Cardiovascular System;CCB
+Clevidipine,"Drug class: Dihydropyridine\nAction: Calcium channel blocker\nTarget Tissue: Vascular smooth muscle\nClinical use: ""Hypertensive emergencies""",Cardiovascular Drugs;Cardiovascular System;CCB
+Verapamil,"Drug class: Non-dihydropyridine\nAction: Calcium channel blocker\nTarget Tissue: Cardiac tissue\nClinical use: ""Arrhythmias (e.g.SVT) and angina""",Cardiovascular Drugs;Cardiovascular System;CCB
+Diltiazem,"Drug class: Non-dihydropyridine (Benzothiazapene)\nAction: Calcium channel blocker\nTarget Tissue: Cardiac & vascular\nClinical use: ""Hypertension and angina and arrhythmias""",Cardiovascular Drugs;Cardiovascular System;CCB
+Bosentan,Mode of action: ETA/ETB antagonist\nUse case: Pulmonary hypertension,Cardiovascular Drugs;Cardiovascular System;Antagonists
+Spironolactone,Drug class: potassium sparing diuretic/Aldosterone antagonist\nUse case: LV remodelling and hypertension,Cardiovascular Drugs;Cardiovascular System;Antagonists;Diuretics
+Rivaroxaban,Drug class: Anticoagulant\nTarget: Factor Xa,Cardiovascular Drugs;Cardiovascular System;Anticoagulants
+Otamixaban,Drug class: Anticoagulant\nTarget: Factor Xa,Cardiovascular Drugs;Cardiovascular System;Anticoagulants
+Unfractioned heparins (UFH),Antithrombin,Cardiovascular Drugs;Cardiovascular System;Antithrombins
+Low molecular weight heparins,Antithrombin,Cardiovascular Drugs;Cardiovascular System;Antithrombins
+Fondaparinux,Antithrombin,Cardiovascular Drugs;Cardiovascular System;Antithrombins
+Bivalirudin,Antithrombin,Cardiovascular Drugs;Cardiovascular System;Antithrombins
+Nintedatib,Tyrosine kinase receptor blocker\nBlocks TKRs that mediate fibrogenic growth factors (eg PDGF and VEGF)\nTreatment of interstitial pulmonary fibrosis\nCan cause abnormal liver function tests,Respiratory Drugs;Respiratory System;IPF;TKR blocker
+Pirfenidone,Antifibrotic inhibiting TGF beta stimulated collagen synthesis,Respiratory Drugs;Respiratory System;IPF
+Viagra/Sildenafil,Phosphdiesterase 5 inhibitor and smooth muscle relaxation\nCan be used for bronchodilation,Respiratory Drugs;Cardiovascular drugs;Respiratory System;IPF

@@ -1,0 +1,8 @@
+side_a,side_b,tags
+Seminoma,"Peak Patient Age (years): 40-50\nMorphology: Sheets of uniform polygonal cells with clear cytoplasm; lymphocytes in the stroma\nTumor Marker(s): 10% of patients have elevated hCG",
+Embryonal carcinoma,"Peak Patient Age (years): 20-30\nMorphology: Poorly differentiated, pleomorphic cells in cords, sheets, or papillary formation; most contain some yolk sac and choriocarcinoma cells\nTumor Marker(s): AFP may be elevated",
+Spermatocytic tumor,"Peak Patient Age (years): 50-60\nMorphology: Small, medium, and large polygonal cells; no inflammatory infiltrate\nTumor Marker(s): Negative",
+Yolk sac tumor,"Peak Patient Age (years): 3\nMorphology: Poorly differentiated flattened, cuboidal, or columnar cells\nTumor Marker(s): 90% of patients have elevated AFP",
+Choriocarcinoma,"Peak Patient Age (years): 20-30\nMorphology: Cytotrophoblast and syncytiotrophoblast without villus formation\nTumor Marker(s): 100% of patients have elevated hCG",
+Teratoma,"Peak Patient Age (years): All ages\nMorphology: Tissues from all three germ cell layers with varying degrees of differentiation\nTumor Marker(s): 20%-25% have elevated AFP",
+Mixed tumor,"Peak Patient Age (years): 15-30\nMorphology: Variable, depending on mixture; commonly teratoma and embryonal carcinoma\nTumor Marker(s): AFP and hCG are variably elevated, depending on mixture",

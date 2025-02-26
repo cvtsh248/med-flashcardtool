@@ -93,7 +93,7 @@ class mainApplication():
                     tbl_disp_buffer.append(tbl[1])
                     print(bcolors.BOLD+tbl[1]+bcolors.ENDC)
 
-            tbls_ = input("Enter TBLs, deliminated by commas (no input means everything): ")
+            tbls_ = input("Enter subtopics, deliminated by commas (no input means everything): ")
             tbls_ = tbls_.split(", ")
 
             self.loadCardsIntoDataframe(topics=mods_+tbls_)
@@ -104,6 +104,8 @@ class mainApplication():
         tags.split(", ")
         self.sortLoadedCards(tags=tags)
 
+        os.system("clear")
+
         print("-----------------------------------------------")
 
         print(bcolors.OKGREEN+"Revision Starting"+bcolors.ENDC)
@@ -113,6 +115,7 @@ class mainApplication():
         card_counter = 0
         while True:
             selected_index = 0
+            os.system("clear")
 
             if len(selected_indices) == len(self.cards_df.index):
                 print(bcolors.BOLD+"-----------------------------------------------"+bcolors.ENDC)
@@ -138,6 +141,7 @@ class mainApplication():
             # selected_indices.append(selected_index)
             print("-----------------------------------------------")
             print(bcolors.BOLD+self.displayCard(selected_index)+bcolors.ENDC)
+            print("-----------------------------------------------")
 
             console_in = input("")
             if len(console_in) > 0 and console_in[0] == ":" and console_in.split(" ")[0] == ":rep" and len(console_in.split(" ")) > 1:
@@ -153,7 +157,7 @@ class mainApplication():
                 repeat_cards.append([selected_index, int(console_in.split(" ")[1])+card_counter])
                 repeat_cards.sort(key=(lambda item: item[1]), reverse=True)
 
-            print("-----------------------------------------------")
+            # print("-----------------------------------------------")
             card_counter += 1
 
 m = mainApplication('flashcards')
