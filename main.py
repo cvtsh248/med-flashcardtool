@@ -54,9 +54,10 @@ class mainApplication():
         elif len(tags) > 0:
             filtered_dataframe = pd.DataFrame(columns=["side_a","side_b","tags"])
             for index, row in self.cards_df.iterrows():
-                card_tag = row["tags"].split(";")
-                if any(x in tags for x in card_tag):
-                    filtered_dataframe = pd.concat([filtered_dataframe, row.to_frame().T], ignore_index=True)
+                if type(row["tags"]) is str:
+                    card_tag = row["tags"].split(";")
+                    if any(x in tags for x in card_tag):
+                        filtered_dataframe = pd.concat([filtered_dataframe, row.to_frame().T], ignore_index=True)
             self.cards_df = filtered_dataframe
             return filtered_dataframe
         
