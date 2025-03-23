@@ -1,0 +1,21 @@
+side_a,side_b,tags
+Volume of distribution (Vd),Amount of drug in body/concentration in blood,Pharmacokinetics
+Clearance (Cl),Rate of elimination/plasma concentration,Pharmacokinetics
+0 order half life,[A]_initial/2k,Pharmacokinetics
+1st order half life,ln2/k = ln2*Vd/Cl,Pharmacokinetics
+Phase I metabolic reactions,Oxidation\nReduction\nHydrolysis,Pharmacokinetics;Metabolism
+Phase II metabolic reactios,Glucoronidation\nAcetylation\nSulphation\nMethylation\nGlutathione conjugation,Pharmacokinetics;Metabolism
+What is the role of phase I metabolic reactions?,Create/Unmask functional groups\nResults in the creation of docking sites for phase II enzymes to add conjugating molecules;Pharmacokinetics;Metabolism
+What is the role of phase II metabolic reactions?,Addition of groups that make the molecule more polar aiding in excretion,Pharmacokinetics;Metabolism
+Cytochrome p450 is involved primarily in what phase of metabolism?,Phase I,Pharmacokinetics;Metabolism
+An equation that summarises cytochrome p450's oxidative actions in phase I metabolism\nRH + NADPH + O2 + H+ -> ROH + NADP+ + H2O,Pharmacokinetics;Metabolism
+Describe the mechanism a which cytochrome p450 oxidises things,1. Drug binds Fe3+ ligand at CYP active site\n2. NADP reduces Fe3+ to Fe2+\n3. O2 binds CYP\n4. O2 oxidises Fe2+ to Fe3+ and O2 recieves the electron\n5. NADPH reduces Fe3+ to Fe2+\n6. O2 oxidises Fe2+ to Fe3+\n7. Drug RH is hydroxylated to ROH\n8.ROH is released,Pharmacokinetics;Metabolism
+Why does a defect in flavin containing monoxygenase cause one to stink of fish?\Flavin containing monoxygenase is responsible for the conversion of trimethylamine (smelly) to trimathylamin oxide (not smelly). Trimethylamine gets stored in fatty tissue and is a product of the metabolism of choline, and is a part of our diet.,Diseases;Pharmacokinetics;Metabolism
+What enzyme oxidises ethanol to ethanal?,Alcohol dehydrogenase,Metabolism;Pharmacokinetics
+Phase II Glucoronidation conjugating agent and targets:,"Conjugting agent: UDP-glucoronic acid\nTargets: -OH, -COOH, -NH2, -SH",Metabolism;Pharmacokinetics
+Phase II Acetylation conjugating agent and targets:,"Conjugating agent: Acetyle CoA\nTargets: -OH, -NH2",Metabolism;Pharmacokinetics
+Phase II Amino acid conjugation conjugating agent and targets:,"Conjugating agents: Glycine, glutamine, taurine\nTargets: -OH, -NH2",Metabolism;Pharmacokinetics
+Phase II Methylation conjugating agent and targets:,"Conjugating agent: S-adenosyl-methionine\nTargets: -OH, -NH2",Metabolism;Pharmacokinetics
+Phase II Sulphation conjugating agent and targets:,"Conjugating agent: 3'-Phosphoadenosine-5'-phosphosulphate\nTargets: -OH, -NH2",Metabolism;Pharmacokinetics
+Phase II Glutathione conjugation conjugating agent and targets:,"Conjugating agent: Glutathione\nTargets: Electrophiles",Metabolism;Pharmacokinetics
+Does phase II methylation produce polar compounds?,No,Metabolism;Pharmacokinetics

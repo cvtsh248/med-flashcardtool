@@ -1,1 +1,59 @@
 side_a,side_b,tags
+Adrenaline selectivity,Alpha < Beta,Drugs;Autonomic Nervous System Drugs
+Noradrenaline selectivity,Alpha > Beta,Drugs;Autonomic Nervous System Drugs
+Adrenaline mechanism,Non-selective adrenergic agonist,Drugs;Autonomic Nervous System Drugs
+Adrenaline effects/uses,"Alpha 1 action -> peripheral vasoconstriction\Beta 1 action -> Increased CO\nBeta 2 action -> Relax bronchial smooth muscle",Drugs;Autonomic Nervous System Drugs
+Adrenaline side effects/uses,"Thickened secretions\nTachycardia\nPalpitations\nCold extremities\nHypertension\nCerebral hemorrhage\nPulmonary oedema\nTremors in skeletal muslces",Drugs;Autonomic Nervous System Drugs
+Phenylepherine mechanism,"Alpha 1 agonist\nMore resistant to COMT degredation (but not MAO degredation)",Drugs;Autonomic Nervous System Drugs
+Phenylepherine effects/uses,Mydriatic (increase pupil diameter)\nNasal decongestion (due to vasoconstriction),Drugs;Autonomic Nervous System Drugs
+Phenylepherine side effects/uses,Hypertension\nRhinitis medicamentosa\n  -Rebounds inflammation from drug administration,Drugs;Autonomic Nervous System Drugs
+Clonidine mechanism,Alpha 2 agonist,Drugs;Autonomic Nervous System Drugs
+Clonidine effects/uses,Reduce hypertension\nTreatment of migraine,Drugs;Autonomic Nervous System Drugs
+Clonidine side effects/uses,"Hypotension, Bradycardia, CHF, weakness, oedema",Drugs;Autonomic Nervous System Drugs
+Isoprenaline mechanism,Non-selective beta agonist\nLess succeptible to MAO and uptake 1\nPlasma half life of 2 hours,Drugs;Autonomic Nervous System Drugs
+Isoprenaline effects/uses,"Used for treatment of cardiogenic shock, acute HF, MI, given IV,Drugs",;Autonomic Nervous System Drugs
+Isoprenaline side effects,Reflex Tachycardia,Drugs;Autonomic Nervous System Drugs
+Dobutamine mechanism,Beta 1 agonist\nHighly succeptible to COMT\n2 minute plasma half life,Drugs;Autonomic Nervous System Drugs
+Dobutamine effects/uses,Used in cargiogenic shock and heart failure as it has +ve ionotropic and chronotropic effects,Drugs;Autonomic Nervous System Drugs
+Salbutamol mechanism,Beta 2 agonist\nRelatively resistant to COMT and MAO,Drugs;Autonomic Nervous System Drugs
+Salbutamol effects/uses,"Used in asthmatics for bronchodilation\nUsed to treat threatened uncomplicated premature labour, B2 receptors relax uterine muscle and postpone contractions",Drugs;Autonomic Nervous System Drugs
+Salbutamol side effects,Reflex tachycardia (only if in systemic circulation)\nTremor\nCardiovascular issues in cardiac patients\nBe wary of those with hyperthyroidism and diabetes as beta 2 receptors are involved in glycogenolysis and gluconeogenesis,Drugs;Autonomic Nervous System Drugs
+Cocaine mechanism,Blocks uptake 1 causing a build up of neurotransmitter leading to acute stimulation. Eventually leads to CNS depression due to stores of neurotransmitter being depleted.,Drugs;Autonomic Nervous System Drugs
+Cocaine effects,Euphoria\nExcitement\nIncreased motor activity\nActivation of vomitin centers\nRespiratory due to CNS depression\nTachycardia\nIncrease blod pressure\nVF\nCardiac arrest\nTremors/convulsions centrally and peripherally,Drugs;Autonomic Nervous System Drugs
+Tyramine is found in:,Cheese\nRed wine\nSoy sauce,Drugs;Autonomic Nervous System;Diseases
+Tyramine is a weak __________ agonist,Adrenergic,Drugs;Autonomic Nervous System;Diseases
+Tyramine is problematic in individuals with impaired _______,"MAO A: liver, intestines, endothelium, adrenergic nerve terminals\nMAO B: liver, intestines, endothelium",Drugs;Autonomic Nervous System Drugs;Autonomic Nervous System;Diseases
+A build of of tyramine can cause what?,Hypertensive crisis\nTyramine competes with catecholamines for uptake 1 and displaces intracellular noradrenaline from intracellular storage vesicles into cytosol\nCytosolic noradrenaline can leak through membrane and trigger post synaptic adrenoreceptor.,Drugs;Autonomic Nervous System;Diseases
+Why must one be cautious when prescribing beta blockers to COPD patients?,Beta 2 antagonism can cause bronchoconstriction,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+Can beta blockers be used in the setting of acute or unstable heart failure?,No because of their -ve ionotropic effect. However they can be used for chronic heart failure treatment and are associated with reduced mortality,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+Why are hypoglycemic symptoms supressed by beta blockers?,"SNS is responsible for symptoms like sweating, palpitations and tremors\nThe beta 2 receptro breakdown of glycogen can also be affected",Drugs;Autonomic Nervous System Drugs;Beta Blockers
+Labetolol mechanism,"Beta 1, Beta 2 and alpha 1 blockade",Drugs;Autonomic Nervous System Drugs;Beta Blockers
+Phentolamine mechanism,Alpha 1 and alpha 2 blockade,Drugs;Autonomic Nervous System Drugs
+Prazosin mechanism,Alpha 1 blockade,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+Propanolol mechanism,Beta 1 and beta 2 blockade,Drugs;Autonomic Nervous System Drugs;Beta Blockers;Beta Blockers
+Atenolol mechanism,Beta 1 blockade,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+acebutolol,cardioselective\nBeta 1,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+atenolol,cardioselective\nBeta 1,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+betaxolol,cardioselective\nBeta 1,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+bevantolol,cardioselective\nBeta 1,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+bisoprolol,cardioselective\nBeta 1,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+celiprolol,cardioselective\nBeta 1,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+esmolol,cardioselective\nBeta 1,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+metoprolol,cardioselective\nBeta 1,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+practolol,cardioselective\nBeta 1,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+alprenolol,nonselective\nBeta 1+Beta 2,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+carteolol,nonselective\nBeta 1+Beta 2,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+nadolol,nonselective\nBeta 1+Beta 2,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+oxprenolol,nonselective\nBeta 1+Beta 2,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+penbutolol,nonselective\nBeta 1+Beta 2,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+pindolol,nonselective\nBeta 1+Beta 2,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+propranolol,nonselective\nBeta 1+Beta 2,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+sotalol,nonselective\nBeta 1+Beta 2,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+timolol,nonselective\nBeta 1+Beta 2,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+bucindolol,additional Alpha 1 antagonist activity,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+carvedilol,additional Alpha 1 antagonist activity,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+labetalol,additional Alpha 1 antagonist activity,Drugs;Autonomic Nervous System Drugs;Beta Blockers
+Bethanechol Mechanism,Cholinomimetic\nType: Choline ester,Drugs;Autonomic Nervous System Drugs;Cholinomimetics
+Bethanechol Uses,Bladder Emptying\n,Drugs;Autonomic Nervous System Drugs;Cholinomimetics
+Pilocarpine Mechanism,Cholinomimetic\nType: Alkaloid,Drugs;Autonomic Nervous System Drugs;Cholinomimetics
+Pilocarpine Uses,Glaucoma,Drugs;Autonomic Nervous System Drugs;Cholinomimetics

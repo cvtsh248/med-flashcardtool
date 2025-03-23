@@ -28,6 +28,7 @@ class mainApplication():
         if len(topics) == 0:
             dataframes = []
             for file in csv_files:
+                # print(file)
                 df = pd.read_csv(file)
                 dataframes.append(df)
             dataframe = pd.concat(dataframes, axis=0, ignore_index=True)

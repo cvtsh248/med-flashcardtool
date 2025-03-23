@@ -1,0 +1,15 @@
+side_a,side_b,tags
+What are the types of receptors,Type 1: Channel-linked receptors\nType 2:GPCR\nType 3:Kinase-linked receptors\nType 4: Intracellular receptors that control gene transcription,Cell Biology;Pharmacokinetics;Pharmacodynamics
+What constitutes an agonist,An agonist has receptor affinity and intrinsic activity.\nDrug achieves Emax when all receptors are occupied,Pharmacodynamics
+EC50,The dose of a drug at 50% Emax,Pharmacodynamics
+Potency,The amount of drug required to produce an effect of a given magnitude\nI.e. Smaller EC50 -> Greater potency\nHigher affinity -> higher potency,Pharmacodynamics
+Efficacy,The magnitude of response when a drug binds a receptor,Pharmacodynamics
+Full agonist,Emax achieved when all receptors are occupied,Pharmacodynamics
+Partial agonist,"Has receptor affinity, but less intrinsic activity (>0) than a full agonist (unity)\nCan compete with agonists and competitive agonists for binding",Pharmacodynamics
+Inverse agonist,"Has receptor affinity, but NEGATIVE intrinsic activity\nCan compete with partial agonists and competitive antagonists",Pharmacodynamics
+What constitutes and Antagonist?,Has receptor affinity but no efficacy and intrinsic activity,Pharmacodynamics
+Competitive antagonist,"Same binding site as agonist\nDose response curve shifts RIGHT\nEmax stays the same, EC50 increases",Pharmacodynamics
+Noncompetitive antagonist,"Binds at a different site compared to an agonist or irreversibly tightly to the main binding site\nInsurmountable\nDose response curve shifts UP\nEmax reduces, EC50 stays the same",Pharmacodynamics 
+Non receptor-mediated antagonism is typically non competitive.,Correct,Pharmacodynamics
+Types of non receptor-mediated antagonism,"Physiological antagonism: 2 independent receptor systems that oppose\nChemical antagonism: chemical combination between agonist and antagonist\nPharmacokinetic antagonism: alters concentration of agonist by affecting absorption, metabolism, distribution and excretion\nReceptor blockade: Blocking ion channel through a drug",Pharmacodynamics
+

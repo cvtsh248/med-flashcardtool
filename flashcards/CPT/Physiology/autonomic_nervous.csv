@@ -1,0 +1,11 @@
+side_a,side_b,tags
+M1 muscarinic receptors,Salivary glands\nStomach\nCNS,Autonomic Nervous System;Parasympathetic Nervous System
+M2 muscarinic receptors,Heart,Autonomic Nervous System;Parasympathetic Nervous System
+M3 muscarinic receptors,Salivary glands\nBrocnhial/Visceral smooth muscle\nSweat glands\nEyes,Autonomic Nervous System;Parasympathetic Nervous System
+M4 muscarinic receptors,CNS,Autonomic Nervous System;Parasympathetic Nervous System
+M5 muscarinic receptors,CNS,Autonomic Nervous System;Parasympathetic Nervous System
+M1 muscarinic receptors are Gi, Gq or Gs?,Gq,Autonomic Nervous System;Parasympathetic Nervous System
+M2 muscarinic receptors are Gi, Gq or Gs?,Gi,Autonomic Nervous System;Parasympathetic Nervous System
+M3 muscarinic receptors are Gi, Gq or Gs?,Gq,Autonomic Nervous System;Parasympathetic Nervous System
+M4 muscarinic receptors are Gi, Gq or Gs?,Gi,Autonomic Nervous System;Parasympathetic Nervous System
+M5 muscarinic receptors are Gi, Gq or Gs?,Gq,Autonomic Nervous System;Parasympathetic Nervous System
