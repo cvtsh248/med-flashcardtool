@@ -1,0 +1,11 @@
+"side_a","side_b","tags"
+"How does Influenza evade immune detection?","NS1 sequesters dsRNA to prevent recognition, thus evading the RIG-I and MAVS Interferon pathway","Diseases;Virus;Infections;Microbiology;Evasion"
+"How does Influenza enter cells?","Hemagglutinin binds to scialic acid receptors, inducing endocytosis\nLysosome fuses with endosome, pumping H+ into endosome, changing conformation of hemagglutinin, causing fusion of envelope and membrane","Diseases;Virus;Infections;Microbiology;Evasion"
+"How does HIV enter cells?","Exploits CD4\nGP120 binds to CD4\nConformation change allows binding to CCR5 and CXCR4\nGP41 mediates fusion of membrane and envelope","Diseases;Virus;Infections;Microbiology;Evasion"
+"How does Hepatitis C evade immune detection?","NS34A protease cleaves MAVS, thus evading the RIG-I and MAVS Interferon pathway","Diseases;Virus;Infections;Microbiology;Evasion"
+"How does Rotavirus evade immune detection?","NSP1 promotes degredation of IRF3,5 and 7, thus evading the RIG-I and MAVS Interferon pathway","Diseases;Virus;Infections;Microbiology;Evasion"
+"The PKR pathway is activated by what?","dsRNA\nSwitches off eIF2A, preventing host cell translation","Diseases;Virus;Infections;Microbiology;Evasion"
+"Adenovirus & poxvirus avoids immune detection by:","Inhibiting PKR activation","Diseases;Virus;Infections;Microbiology;Evasion"
+"HSV avoids immune detection by:","Blocking eIF2A phosphorylation","Diseases;Virus;Infections;Microbiology;Evasion"
+"HIV evades immune destruction by:","Disabling APOBEC3G","Diseases;Virus;Infections;Microbiology;Evasion"
+

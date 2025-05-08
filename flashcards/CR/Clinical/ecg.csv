@@ -1,0 +1,6 @@
+side_a,side_b,tags
+"Changes in leads V1-V4","Location: Anteroseptal\nCoronary artery: Left anterior descending","Cardiovascular System;Clinical;ECG"
+"Changes in leads II, III, aVF","Location: Inferior\nCoronary artery: Right coronary","Cardiovascular System;Clinical;ECG"
+"Changes in leads V1-V6, I, aVL","Location: Anterolateral\nCoronary artery: Proximal left anterior descending","Cardiovascular System;Clinical;ECG"
+"Changes in leads I, aVL +/- V5-V6","Location: Lateral\nCoronary artery: Left circumflex","Cardiovascular System;Clinical;ECG"
+"ST depression in V1-V3 with reciprocal STEMI changes (tall R waves, upright T waves, dominant R wave in V2)","Location: Posterior\nCoronary artery: Left circumflex or right coronary","Cardiovascular System;Clinical;ECG"
