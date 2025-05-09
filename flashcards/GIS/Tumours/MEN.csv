@@ -1,0 +1,5 @@
+side_a,side_b,tags
+MEN 1,"Tumours: Parathyroid adenoma, Pancreatic tumours, Pituitary adenomas\nGene Mutation: MEN1","MEN;Endocrine System"
+MEN 2A,"Tumours: Medullary thyroid carcinoma, Pheochromocytoma, Parathyroid hyperplasia\nGene Mutation: RET","MEN;Endocrine System"
+MEN 2B,"Tumours: Medullary thyroid carcinoma, Pheochromocytoma, Mucosal neuromas\nGene Mutation: RET","MEN;Endocrine System"
+MEN 4,"Tumours: Parathyroid adenoma, Pituitary adenoma, Neuroendocrine tumours, Gonadal and adrenal tumours\nGene Mutation: CDKN1B","MEN;Endocrine System"
